@@ -1,0 +1,17 @@
+.profile-image {
+    width: 100px;
+    height: 100px;
+	padding-top:10px;
+	margin-left: 50px;
+}
+.contact-info {
+    padding: 10px;
+}
+.cv-button {
+	padding:10px;
+	padding-top: 10px;
+
+}
+.btn-group-lg>.btn, .btn-lg {
+	border-radius: 2px !important;
+}
